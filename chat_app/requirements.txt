@@ -1,0 +1,7 @@
+streamlit
+elasticsearch
+langchain
+numpy
+rdflib
+sparqlwrapper
+openai
